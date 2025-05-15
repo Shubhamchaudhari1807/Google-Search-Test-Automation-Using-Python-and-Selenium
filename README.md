@@ -38,6 +38,7 @@ GoogleSearchAutomation/
 1. **Clone the repository**
    
         git clone https://github.com/yourusername/GoogleSearchAutomation.git
-   cd GoogleSearchAutomation
+   
+        cd GoogleSearchAutomation
 
 
