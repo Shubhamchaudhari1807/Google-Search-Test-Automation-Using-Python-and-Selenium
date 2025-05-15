@@ -25,6 +25,7 @@ This project demonstrates how to automate a Google Search using **Python** and *
 ---
 
 ## 📁 Project Structure
+
 📁 GoogleSearchAutomation
 
 
@@ -43,5 +44,39 @@ This project demonstrates how to automate a Google Search using **Python** and *
         git clone https://github.com/yourusername/GoogleSearchAutomation.git
    
         cd GoogleSearchAutomation
+
+2. Install dependencies
+       
+        pip install selenium
+
+3. Download ChromeDriver
+   
+   Match the version with your Chrome browser:
+   
+       https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.94/win64/chromedriver-win64.zip
+
+4.   Update Driver Path
+     
+     Replace this line in testSearch.py:
+            
+          service = Service(r'C:\Path\To\chromedriver.exe')
+      
+     with your actual driver path.
+
+🚀 How to Run
+
+```
+bash
+       python testSearch.py
+```
+
+👨‍💻 Author
+
+Shubham Chaudhari
+
+B.Tech Computer Engineering
+
+[LinkedIn](https://www.linkedin.com/in/shubham-chaudhari-249877253/) | [GitHub](https://github.com/Shubhamchaudhari1807)
+
 
 
