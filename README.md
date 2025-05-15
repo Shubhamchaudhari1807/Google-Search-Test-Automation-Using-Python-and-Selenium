@@ -25,12 +25,13 @@ This project demonstrates how to automate a Google Search using **Python** and *
 ---
 
 ## 📁 Project Structure
-📁 GoogleSearchAutomation/
-│
+📁 GoogleSearchAutomation
+
 
 ├── 📁chromedriver.exe # ChromeDriver binary
 
 ├── 📁testSearch.py # Main Python script
+
 └── 📁README.md 
 
 ---
