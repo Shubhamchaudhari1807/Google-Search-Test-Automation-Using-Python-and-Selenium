@@ -66,7 +66,7 @@ This project demonstrates how to automate a Google Search using **Python** and *
 🚀 How to Run
 
 ```
-bash
+
        python testSearch.py
 ```
 
