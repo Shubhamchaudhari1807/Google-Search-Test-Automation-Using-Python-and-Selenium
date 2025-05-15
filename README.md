@@ -13,6 +13,8 @@ This project demonstrates how to automate a Google Search using **Python** and *
 - ✅ Maximizes browser window for visibility
 - ✅ Supports easy customization and enhancement (e.g., extracting search results)
 
+![Test Input ](GoogleSearchAutomation/testinput.png)
+
 ---
 
 ## 🧰 Technologies Used
