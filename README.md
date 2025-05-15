@@ -15,6 +15,8 @@ This project demonstrates how to automate a Google Search using **Python** and *
 
 ![Test Input ](GoogleSearchAutomation/testinput.png)
 
+![Test Output ](GoogleSearchAutomation/testoutput.png)
+
 ---
 
 ## 🧰 Technologies Used
